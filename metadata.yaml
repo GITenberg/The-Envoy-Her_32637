@@ -1,0 +1,31 @@
+_repo: The-Envoy-Her_32637
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32637-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fyfe, H. B. (Horace Bowne)
+    alias: Fyfe, Horace Bowne
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '25276'
+    url: http://www.gutenberg.org/2009/agents/25276
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Emperors -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Political fiction'
+title: The Envoy, Her
+url: http://www.gutenberg.org/ebooks/32637
